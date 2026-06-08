@@ -1,0 +1,6 @@
+{
+  "name": "Student Portfolio",
+  "description": "Interactive portfolio website for Aarav Sharma, a member of the GEMA Clubs, showcasing achievements, academic grades, club projects, competitions, and skills with a live theme customizer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
